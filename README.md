@@ -26,3 +26,9 @@ We carry out targeted adversarial attack for six cross-modal hashing methods, in
 * Joint-modal Distribution-based Similarity Hashing (JDSH): https://github.com/KaiserLew/JDSH
 * Deep Graph-neighbor Coherence Preserving Network (DGCPN): https://github.com/Atmegal/DGCPN
 
+## An attack example for 32-bit DGCPN on WIKEPEDIA
+We provide an example here. We use the proposed TA-DCH to attack the 32-bit DGCPN on the WIKIPEDIA dataset. You need to put the hashing model `DGCPN.pth` in a path like `./attacked_models/DGCPN_WIKI_32/DGCPN.pth`. The hashing model `DGCPN.pth` can be obtained by the following link:
+* 32-bit DGCPN on WIKIPEDIA: https://pan.baidu.com/s/1bX7-lmpR01VerYs8JmvREQ <br> Password: xaa1
+
+## Citation
+Coming soon...
