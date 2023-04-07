@@ -25,3 +25,4 @@ We carry out targeted adversarial attack for six cross-modal hashing methods, in
 * Deep Joint-Semantics Reconstructing Hashing (DJSRH): https://github.com/zs-zhong/DJSRH
 * Joint-modal Distribution-based Similarity Hashing (JDSH): https://github.com/KaiserLew/JDSH
 * Deep Graph-neighbor Coherence Preserving Network (DGCPN): https://github.com/Atmegal/DGCPN
+
