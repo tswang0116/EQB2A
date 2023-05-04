@@ -10,7 +10,7 @@ Source code for the paper "Efficient Query-based Black-Box Attack against Cross-
 * scipy == 1.7.1
 
 ## Datasets
-We used five cross-modal datasets for experiments. Since IAPR-TC12 and MS-COCO do not have common text features, we use the pre-trained BERT model to extract 1024-dimension text features. All datasets are available by the following link:
+We used three cross-modal datasets for experiments. Since MS-COCO do not have common text features, we use the pre-trained BERT model to extract 1024-dimension text features. All datasets are available by the following link:
 
 * FLICKR-25K: https://pan.baidu.com/s/1Ie9PDqC9mAmBdxqX0KJ0ng <br> Password: yjkd
 * MS-COCO: https://pan.baidu.com/s/1ocZTVx1GFFdceoSYbIWkbQ <br> Password: 2a6l
@@ -25,10 +25,6 @@ We carry out targeted adversarial attack for six cross-modal hashing methods, in
 * Deep Joint-Semantics Reconstructing Hashing (DJSRH): https://github.com/zs-zhong/DJSRH
 * Joint-modal Distribution-based Similarity Hashing (JDSH): https://github.com/KaiserLew/JDSH
 * Deep Graph-neighbor Coherence Preserving Network (DGCPN): https://github.com/Atmegal/DGCPN
-
-## An attack example for 32-bit DGCPN on WIKEPEDIA
-We provide an example here. We use the proposed TA-DCH to attack the 32-bit DGCPN on the WIKIPEDIA dataset. You need to put the hashing model `DGCPN.pth` in a path like `./attacked_models/DGCPN_WIKI_32/DGCPN.pth`. The hashing model `DGCPN.pth` can be obtained by the following link:
-* 32-bit DGCPN on WIKIPEDIA: https://pan.baidu.com/s/1bX7-lmpR01VerYs8JmvREQ <br> Password: xaa1
 
 ## Citation
 Coming soon...
