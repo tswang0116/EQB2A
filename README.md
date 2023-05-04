@@ -16,7 +16,7 @@ We used three cross-modal datasets for experiments. Since MS-COCO do not have co
 * MS-COCO: https://pan.baidu.com/s/1ocZTVx1GFFdceoSYbIWkbQ <br> Password: 2a6l
 * NUS-WIDE: https://pan.baidu.com/s/1Yvqt4Bdjsq1gPaJn2IqIEw <br> Password: doi1
 
-## Train attacked hashing models
+## Attacked hashing models
 We carry out targeted adversarial attack for six cross-modal hashing methods, including three supervised methods (DCMH, CPAH, DADH) and three unsupervised methods (DJSRH, JDSH, DGCPN). All attacked hashing models can be obtained by the following link:
 
 * Deep Cross-Modal Hashing (DCMH): https://github.com/WendellGul/DCMH
