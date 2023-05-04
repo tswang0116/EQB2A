@@ -10,7 +10,7 @@ Source code for the paper "Efficient Query-based Black-Box Attack against Cross-
 * scipy == 1.7.1
 
 ## Datasets
-We used three cross-modal datasets for experiments. Since MS-COCO do not have common text features, we use the pre-trained BERT model to extract 1024-dimension text features. All datasets are available by the following link:
+We use three cross-modal datasets for experiments. Since MS-COCO do not have common text features, we use the pre-trained BERT model to extract 1024-dimension text features. All datasets are available by the following link:
 
 * FLICKR-25K: https://pan.baidu.com/s/1Ie9PDqC9mAmBdxqX0KJ0ng <br> Password: yjkd
 * MS-COCO: https://pan.baidu.com/s/1ocZTVx1GFFdceoSYbIWkbQ <br> Password: 2a6l
